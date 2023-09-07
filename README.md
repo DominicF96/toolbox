@@ -5,7 +5,9 @@ This is my personal toolbox. It contains a collection of scripts and tools that 
 **Content**
 
 - [3D Modeling, Animation and Rendering](#3d-modeling-animation-and-rendering)
+- [AI](#ai)
 - [Accessibility](#accessibility)
+- [CLIs](#clis)
 - [Code Generation / Templating](#code-generation-templating)
 - [Documentation](#documentation)
 - [Game Development](#game-development)
@@ -19,6 +21,12 @@ This is my personal toolbox. It contains a collection of scripts and tools that 
 - [axe](https://www.deque.com/axe/) - Accessibility testing tool
 - [W3 Component ARIA](https://www.w3.org/WAI/ARIA/apg/patterns/) - ARIA design patterns for web components
 
+## AI
+
+- **[Midjourney](https://midjourney.com/) - AI generated images**
+- **[ChatGPT](https://chat.openai.com/) - AI-powered language model**
+- [Stable Diffusion](https://github.com/CompVis/stable-diffusion) - Open-Source AI generated images
+
 ## 3D Modeling, Animation and Rendering
 
 - **[Blender](https://www.blender.org/) - My Main 3D modeling Tool**
@@ -26,9 +34,14 @@ This is my personal toolbox. It contains a collection of scripts and tools that 
 - [MagicaVoxel](https://ephtracy.github.io/) - Voxel art editor
 - [Substance Painter](https://www.substance3d.com/products/substance-painter/) - 3D painting software
 
+## CLIs
+
+- **[FFMPEG](https://ffmpeg.org/) - Tools to process multimedia**
+
 ## Code Generation / Templating
 
-- **[EZReactComponents](https://github.com/DominicF96/ez-react-components) - Generates React Components in seconds using Typescript, SASS, Storybook and Jest**
+- **[EZReactComponents](https://github.com/DominicF96/ez-react-components) - My own tool to generate a large quantity of React components in a few seconds**
+   - The components are generated from templates and are built with Typescript, SASS, Storybook and Jest.
 - **[SVGtoJSX](https://github.com/DominicF96/svg-to-jsx) - My own tool to convert SVGs to React components**
 - [svgr](https://react-svgr.com/) - Convert SVGs to React components
 
@@ -50,6 +63,7 @@ This is my personal toolbox. It contains a collection of scripts and tools that 
 
 - **[Figma](https://www.figma.com/) - My Main Design Tool**
 - **[Photopea](https://www.photopea.com/) - My Main Image editor**
+- **[Upscayl](https://github.com/upscayl) - Image upscaler**
 - [Adobe XD](https://www.adobe.com/products/xd.html) - Design tool
 - [Inkscape](https://inkscape.org/) - Vector graphics editor
 - [Krita](https://krita.org/en/) - Image editor
