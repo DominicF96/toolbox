@@ -2,6 +2,8 @@
 
 This is my personal toolbox. It contains a collection of scripts and tools that I use on a daily basis.
 
+- [3D Modeling, Animation and Rendering](#3d_modeling_animation_and_rendering)
+
 ## 3D Modeling, Animation and Rendering
 
 - **[Blender](https://www.blender.org/) - My Main 3D modeling Tool**
