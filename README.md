@@ -85,7 +85,6 @@ This is my personal toolbox. It contains a collection of scripts and tools that 
 - **[unlighthouse](https://github.com/harlan-zw/unlighthouse) - Run Lighthouse in CI for every page of a website**
 - [Cypress](https://www.cypress.io/) - End-to-end testing framework
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) - Testing library for React
-- [Storybook](https://storybook.js.org/) - UI component explorer for frontend developers
 
 ## Video Editing
 
