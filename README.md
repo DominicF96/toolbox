@@ -48,7 +48,7 @@ This is my personal toolbox. It contains a collection of scripts and tools that 
 
 ## Code Versioning
 
-- **[Github](https://www.github.com) - My Main Platform for Code Versionning**
+- 💖 **[Github](https://www.github.com) - My Main Platform for Code Versionning**
 
 ## Documentation
 
