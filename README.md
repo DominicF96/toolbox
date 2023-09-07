@@ -5,12 +5,19 @@ This is my personal toolbox. It contains a collection of scripts and tools that 
 **Content**
 
 - [3D Modeling, Animation and Rendering](#3d-modeling-animation-and-rendering)
+- [Accessibility](#accessibility)
 - [Code Generation / Templating](#code-generation-templating)
 - [Documentation](#documentation)
 - [Game Development](#game-development)
 - [Graphics](#graphics)
 - [IDEs](#ides)
+- [Testing](#testing)
 - [Video Editing](#video-editing)
+
+## Accessibility
+
+- [axe](https://www.deque.com/axe/) - Accessibility testing tool
+- [W3 Component ARIA](https://www.w3.org/WAI/ARIA/apg/patterns/) - ARIA design patterns for web components
 
 ## 3D Modeling, Animation and Rendering
 
@@ -53,6 +60,14 @@ This is my personal toolbox. It contains a collection of scripts and tools that 
 
 - **[Visual Studio Code](https://code.visualstudio.com/) - My Main Code Editor 💖🤓**
 - [Visual Studio](https://visualstudio.microsoft.com/) - IDE for Unity and C# development
+
+## Testing
+
+- **[Jest](https://jestjs.io/) - My Main Testing Framework**
+- **[unlighthouse](https://github.com/harlan-zw/unlighthouse) - Run Lighthouse in CI for every page of a website**
+- [Cypress](https://www.cypress.io/) - End-to-end testing framework
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) - Testing library for React
+- [Storybook](https://storybook.js.org/) - UI component explorer for frontend developers
 
 ## Video Editing
 
