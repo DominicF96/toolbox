@@ -2,7 +2,15 @@
 
 This is my personal toolbox. It contains a collection of scripts and tools that I use on a daily basis.
 
-- [3D Modeling, Animation and Rendering](#3d_modeling_animation_and_rendering)
+**Content**
+
+- [3D Modeling, Animation and Rendering](#3d-modeling-animation-and-rendering)
+- [Code Generation / Templating](#code-generation-templating)
+- [Documentation](#documentation)
+- [Game Development](#game-development)
+- [Graphics](#graphics)
+- [IDEs](#ides)
+- [Video Editing](#video-editing)
 
 ## 3D Modeling, Animation and Rendering
 
