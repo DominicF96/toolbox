@@ -9,6 +9,7 @@ This is my personal toolbox. It contains a collection of scripts and tools that 
 - [Accessibility](#accessibility)
 - [CLIs](#clis)
 - [Code Generation / Templating](#code-generation-templating)
+- [Code Versioning](#code-versioning)
 - [Documentation](#documentation)
 - [Game Development](#game-development)
 - [Graphics](#graphics)
@@ -23,6 +24,7 @@ This is my personal toolbox. It contains a collection of scripts and tools that 
 
 ## AI
 
+- 💖 **[Github Copilot](https://github.com/features/copilot) - My AI Assistant to code at superhuman speeds 😎**
 - 💖 **[Midjourney](https://midjourney.com/) - AI generated images**
 - **[ChatGPT](https://chat.openai.com/) - AI-powered language model**
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion) - Open-Source AI generated images
@@ -44,6 +46,10 @@ This is my personal toolbox. It contains a collection of scripts and tools that 
 - 💖 **[SVGtoJSX](https://github.com/DominicF96/svg-to-jsx) - My own tool to convert SVGs to React components**
 - [svgr](https://react-svgr.com/) - Convert SVGs to React components
 
+## Code Versioning
+
+- **[Github](https://www.github.com) - My Main Platform for Code Versionning**
+
 ## Documentation
 
 - 💖 **[Storybook](https://storybook.js.org/) - UI component explorer for frontend developers**
@@ -52,7 +58,7 @@ This is my personal toolbox. It contains a collection of scripts and tools that 
 
 ## Game Development
 
-- **[Unity](https://unity.com/) - My Main Game Engine**
+- 💖 **[Unity](https://unity.com/) - My Main Game Engine**
 - [Unreal Engine](https://www.unrealengine.com/) - Game Engine
 - [Construct](https://www.construct.net/) - Game Engine
 - [GameMaker Studio](https://www.yoyogames.com/gamemaker) - Game Engine
