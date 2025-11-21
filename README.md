@@ -11,6 +11,7 @@ This is my personal toolbox. It contains a collection of scripts and tools that 
 - [Code Generation / Templating](#code-generation-templating)
 - [Code Versioning](#code-versioning)
 - [Documentation](#documentation)
+- [Electronics](#electronics)
 - [Game Development](#game-development)
 - [Graphics](#graphics)
 - [IDEs](#ides)
