@@ -56,6 +56,12 @@ This is my personal toolbox. It contains a collection of scripts and tools that 
 - [Docusaurus](https://docusaurus.io/) - Documentation generator
 - [Swagger](https://swagger.io/) - Documentation generator
 
+## Electronics
+
+- [DigiKey](https://www.digikey.ca/) - Chips & hardware shop + Footprints & Datasheets
+- [KiCAD](https://www.kicad.org/) - Open-Source PCB design platform
+- [SnapEDA](https://www.snapeda.com/) - Footprints, & 3D models for millions of electronic components
+
 ## Game Development
 
 - 💖 **[Unity](https://unity.com/) - My Main Game Engine**
