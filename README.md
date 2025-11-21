@@ -27,7 +27,8 @@ This is my personal toolbox. It contains a collection of scripts and tools that 
 
 - 💖 **[Github Copilot](https://github.com/features/copilot) - My AI Assistant to code at superhuman speeds 😎**
 - 💖 **[Midjourney](https://midjourney.com/) - AI generated images**
-- **[ChatGPT](https://chat.openai.com/) - AI-powered language model**
+- [ChatGPT](https://chat.openai.com/) - LLM
+- [Claude](https://claude.ai/) - LLM
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion) - Open-Source AI generated images
 
 ## 3D Modeling, Animation and Rendering
@@ -59,17 +60,23 @@ This is my personal toolbox. It contains a collection of scripts and tools that 
 
 ## Electronics
 
+- **[KiCAD](https://www.kicad.org/) - Open-Source PCB design platform**
 - [DigiKey](https://www.digikey.ca/) - Chips & hardware shop + Footprints & Datasheets
-- [KiCAD](https://www.kicad.org/) - Open-Source PCB design platform
 - [SnapEDA](https://www.snapeda.com/) - Footprints, & 3D models for millions of electronic components
+
+## Frameworks
+
+- [Next.js](https://nextjs.org) - Vercel's Frontend Framework
+- [React.js](https://reactjs.org) - Facebook's Frontend Framework
+- [Express.js](https://expressjs.com/) - Backend Framework
 
 ## Game Development
 
-- 💖 **[Unity](https://unity.com/) - My Main Game Engine**
-- [Unreal Engine](https://www.unrealengine.com/) - Game Engine
+- 💖 **[Godot](https://godotengine.org/) - My Main Game Engine**
 - [Construct](https://www.construct.net/) - Game Engine
 - [GameMaker Studio](https://www.yoyogames.com/gamemaker) - Game Engine
-- [Godot](https://godotengine.org/) - Game Engine
+- [Unity](https://unity.com/) - Game Engine
+- [Unreal Engine](https://www.unrealengine.com/) - Game Engine
 
 ## Graphics
 
